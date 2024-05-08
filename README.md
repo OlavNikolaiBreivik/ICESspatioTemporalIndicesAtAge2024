@@ -1,7 +1,7 @@
 # Reproducing results
 
 In this repository we show how to reproduce the results in the paper
-<em>"Spatio-temporal modeling of catch-at-length and age-at-length for index estimation, and incorporation of observation uncertainty in stock assessment"</em>
+<em>"Joint spatio-temporal modeling of catch-at-length and age-at-length for index estimation, and incorporation of index uncertainty in stock assessment"</em>
 
 
 To estimate the index model and conduct the assessment, you first need to:
